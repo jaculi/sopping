@@ -7,6 +7,9 @@
 </head>
 <body>
 
+変更
+
+
 スタッフ追加<br />
 <br />
 <form method = "post" action = "staff_add_check.php">
